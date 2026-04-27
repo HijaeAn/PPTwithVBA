@@ -1,9 +1,9 @@
-using PptWithVba.Models;
+using PPTWithVBA.Models;
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Xml.Linq;
 
-namespace PptWithVba.Services;
+namespace PPTWithVBA.Services;
 
 /// <summary>
 /// C# → VBA 방식 PPT 자동화 서비스.

@@ -1,7 +1,7 @@
-﻿<Application x:Class="_0427_PPTwithVBA.App"
+﻿<Application x:Class="PPTWithVBA.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:_0427_PPTwithVBA"
+             xmlns:local="clr-namespace:PPTWithVBA"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

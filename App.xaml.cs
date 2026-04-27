@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace _0427_PPTwithVBA;
+namespace PPTWithVBA;
 
 /// <summary>
 /// Interaction logic for App.xaml

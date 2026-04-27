@@ -1,4 +1,4 @@
-namespace PptWithVba.Models;
+namespace PPTWithVBA.Models;
 
 public sealed class SlideContent
 {
